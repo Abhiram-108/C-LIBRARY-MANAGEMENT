@@ -51,7 +51,7 @@ If you have any questions or suggestions, feel free to reach out to me:
 
 - **Email**: [abhirampedadaiit@example.com](mailto:your-email@example.com)
 - **LinkedIn**: [https://www.linkedin.com/in/abhirampedada/](https://www.linkedin.com/in/your-profile)
-- **Twitter**: [Your Twitter Handle](https://twitter.com/your-handle)
+
 
 ---
 
